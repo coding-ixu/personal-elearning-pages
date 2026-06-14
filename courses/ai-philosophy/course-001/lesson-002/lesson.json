@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-002",
+  "course_id": "course-001",
+  "theme_id": "ai-philosophy",
+  "title": "妥当性・健全性・誤謬",
+  "summary": "形式として結論が導かれることと、前提が本当に正しいことを分け、典型的な誤謬を避ける。",
+  "objectives": [
+    "妥当性と健全性を説明できる",
+    "代表的な形式的・非形式的誤謬を見分けられる",
+    "論理的評価と事実確認を分けられる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-001/lesson-002/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-002.md",
+    "quiz": "/assets/quizzes/lesson-002.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-003",
+  "course_id": "course-001",
+  "theme_id": "ai-philosophy",
+  "title": "クリティカルシンキングの実践",
+  "summary": "情報、専門家、数値、物語を評価し、判断を保留・更新するための習慣を作る。",
+  "objectives": [
+    "主張の信頼度を段階的に評価できる",
+    "数値と物語の使われ方を点検できる",
+    "判断保留と意見更新を実践できる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-001/lesson-003/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-003.md",
+    "quiz": "/assets/quizzes/lesson-003.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

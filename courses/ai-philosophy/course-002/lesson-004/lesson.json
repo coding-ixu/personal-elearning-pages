@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-004",
+  "course_id": "course-002",
+  "theme_id": "ai-philosophy",
+  "title": "知識とは何か",
+  "summary": "知識を、真理・信念・正当化の関係として捉え、単なる思い込みとの違いを学ぶ。",
+  "objectives": [
+    "知識の古典的定義を説明できる",
+    "真理、信念、正当化を区別できる",
+    "偶然当たった信念の問題を理解できる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-002/lesson-004/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-004.md",
+    "quiz": "/assets/quizzes/lesson-004.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

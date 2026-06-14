@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-013",
+  "course_id": "course-005",
+  "theme_id": "ai-philosophy",
+  "title": "意識と心身問題",
+  "summary": "心は身体や脳とどのような関係にあるのか、意識の主観性はなぜ難問なのかを学ぶ。",
+  "objectives": [
+    "心身問題の基本構図を説明できる",
+    "物理主義と二元論の違いを理解できる",
+    "クオリア問題を説明できる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-005/lesson-013/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-013.md",
+    "quiz": "/assets/quizzes/lesson-013.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

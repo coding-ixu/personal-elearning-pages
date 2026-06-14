@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-007",
+  "course_id": "course-003",
+  "theme_id": "ai-philosophy",
+  "title": "功利主義・義務論・徳倫理",
+  "summary": "結果、義務、人格という三つの観点から、倫理判断の代表的な枠組みを比較する。",
+  "objectives": [
+    "三つの倫理理論を比較できる",
+    "同じ問題を複数の枠組みで評価できる",
+    "各理論の強みと限界を説明できる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-003/lesson-007/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-007.md",
+    "quiz": "/assets/quizzes/lesson-007.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

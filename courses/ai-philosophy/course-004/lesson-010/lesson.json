@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-010",
+  "course_id": "course-004",
+  "theme_id": "ai-philosophy",
+  "title": "正義・自由・平等",
+  "summary": "社会制度を評価する基本語彙として、正義、自由、平等の関係と衝突を学ぶ。",
+  "objectives": [
+    "分配的正義の問いを説明できる",
+    "自由の複数の意味を区別できる",
+    "平等と公平の違いを考えられる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-004/lesson-010/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-010.md",
+    "quiz": "/assets/quizzes/lesson-010.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

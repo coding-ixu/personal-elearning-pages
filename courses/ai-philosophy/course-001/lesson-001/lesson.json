@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-001",
+  "course_id": "course-001",
+  "theme_id": "ai-philosophy",
+  "title": "論証を読む技術",
+  "summary": "文章や発言を、結論・理由・隠れた前提に分解し、どこを検討すべきか見抜く。",
+  "objectives": [
+    "結論、根拠、前提を区別できる",
+    "論証と単なる説明を見分けられる",
+    "隠れた前提を問いに変えられる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-001/lesson-001/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-001.md",
+    "quiz": "/assets/quizzes/lesson-001.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

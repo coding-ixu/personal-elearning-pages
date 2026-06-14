@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-006",
+  "course_id": "course-002",
+  "theme_id": "ai-philosophy",
+  "title": "証言・専門知・情報環境",
+  "summary": "他者の言葉、専門家、メディア、AIから得る知識を、依存と自律の両面から考える。",
+  "objectives": [
+    "証言による知識の特徴を説明できる",
+    "専門家への信頼条件を整理できる",
+    "情報環境が知識に与える影響を評価できる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-002/lesson-006/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-006.md",
+    "quiz": "/assets/quizzes/lesson-006.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

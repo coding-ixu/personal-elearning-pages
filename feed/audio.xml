@@ -7,14 +7,6 @@
     <language>ja</language>
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
-    <item>
-      <title>最短ルートの結論</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-000/lesson-000/</link>
-      <guid>lesson-000-audio-v1</guid>
-      <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
-      <description>AI時代の哲学 / AI時代の哲学：最短ルート: AI時代に哲学を学ぶなら、論理学・認識論・倫理学から始め、政治哲学、心の哲学、科学哲学、実存主義へ進むのが最短ルートであることを学ぶ。</description>
-      <enclosure url="https://coding-ixu.github.io/personal-elearning-pages/assets/audio/lesson-000.m4a" type="audio/mp4" length="0"/>
-      <itunes:duration>18:00</itunes:duration>
-    </item>
+
   </channel>
 </rss>

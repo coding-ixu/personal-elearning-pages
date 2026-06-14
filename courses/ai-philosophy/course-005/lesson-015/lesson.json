@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-015",
+  "course_id": "course-005",
+  "theme_id": "ai-philosophy",
+  "title": "自己・他者・コミュニケーション",
+  "summary": "自己理解、他者理解、対話の失敗を、心と言語の接点から深掘りする。",
+  "objectives": [
+    "自己理解の限界を説明できる",
+    "他者の心の問題を理解できる",
+    "対話における解釈の役割を考えられる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-005/lesson-015/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-015.md",
+    "quiz": "/assets/quizzes/lesson-015.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

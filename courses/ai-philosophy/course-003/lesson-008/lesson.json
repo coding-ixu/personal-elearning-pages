@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-008",
+  "course_id": "course-003",
+  "theme_id": "ai-philosophy",
+  "title": "自律・責任・ケア",
+  "summary": "自由に選ぶこと、結果を引き受けること、依存関係の中で応答することを結びつけて考える。",
+  "objectives": [
+    "自律と他律を区別できる",
+    "責任の条件を整理できる",
+    "ケア倫理の視点を説明できる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-003/lesson-008/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-008.md",
+    "quiz": "/assets/quizzes/lesson-008.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

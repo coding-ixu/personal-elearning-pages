@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-017",
+  "course_id": "course-006",
+  "theme_id": "ai-philosophy",
+  "title": "パラダイム・実在論・モデル",
+  "summary": "科学は世界をそのまま写すのか、モデルや枠組みを通じて理解するのかを考える。",
+  "objectives": [
+    "パラダイムの考え方を説明できる",
+    "科学的実在論と反実在論を比較できる",
+    "モデルの役割と限界を理解できる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-006/lesson-017/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-017.md",
+    "quiz": "/assets/quizzes/lesson-017.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

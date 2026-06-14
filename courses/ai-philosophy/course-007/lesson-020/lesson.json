@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-020",
+  "course_id": "course-007",
+  "theme_id": "ai-philosophy",
+  "title": "死・時間・意味",
+  "summary": "有限な時間をどう生きるか、意味は発見されるのか作られるのかを考える。",
+  "objectives": [
+    "死の哲学的意味を説明できる",
+    "人生の意味に関する複数の考え方を比較できる",
+    "時間の使い方を価値から考えられる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-007/lesson-020/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-020.md",
+    "quiz": "/assets/quizzes/lesson-020.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

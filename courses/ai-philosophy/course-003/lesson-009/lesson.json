@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-009",
+  "course_id": "course-003",
+  "theme_id": "ai-philosophy",
+  "title": "応用倫理の方法",
+  "summary": "医療、環境、AI、ビジネスなどの具体的問題を、原則と状況の往復で考える。",
+  "objectives": [
+    "応用倫理の検討手順を使える",
+    "利害関係者を洗い出せる",
+    "原則間の衝突を整理できる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-003/lesson-009/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-009.md",
+    "quiz": "/assets/quizzes/lesson-009.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

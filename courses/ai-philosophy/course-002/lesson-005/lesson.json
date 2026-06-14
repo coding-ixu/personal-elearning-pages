@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-005",
+  "course_id": "course-002",
+  "theme_id": "ai-philosophy",
+  "title": "懐疑論と正当化",
+  "summary": "どこまで疑えるのか、疑いを超えて信じるには何が必要かを、基礎づけと整合性から考える。",
+  "objectives": [
+    "懐疑論の役割を説明できる",
+    "基礎づけ主義と整合主義を比較できる",
+    "日常的な正当化の限界を理解できる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-002/lesson-005/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-005.md",
+    "quiz": "/assets/quizzes/lesson-005.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

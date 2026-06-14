@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-014",
+  "course_id": "course-005",
+  "theme_id": "ai-philosophy",
+  "title": "意味・参照・言語行為",
+  "summary": "言葉が何を意味し、何を指し、発話によって何を行っているのかを考える。",
+  "objectives": [
+    "意味と参照を区別できる",
+    "言語行為の考え方を説明できる",
+    "文脈が意味に与える影響を理解できる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-005/lesson-014/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-014.md",
+    "quiz": "/assets/quizzes/lesson-014.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

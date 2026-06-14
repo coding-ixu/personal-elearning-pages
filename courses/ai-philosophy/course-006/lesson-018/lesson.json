@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-018",
+  "course_id": "course-006",
+  "theme_id": "ai-philosophy",
+  "title": "技術哲学・設計責任",
+  "summary": "技術を中立な道具としてだけでなく、行為、制度、価値観を形づくるものとして考える。",
+  "objectives": [
+    "技術の非中立性を説明できる",
+    "設計に埋め込まれた価値を見つけられる",
+    "技術利用の責任分配を考えられる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-006/lesson-018/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-018.md",
+    "quiz": "/assets/quizzes/lesson-018.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

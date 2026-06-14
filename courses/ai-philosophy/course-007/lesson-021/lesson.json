@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-021",
+  "course_id": "course-007",
+  "theme_id": "ai-philosophy",
+  "title": "人生哲学を実践にする",
+  "summary": "哲学を知識で終わらせず、日々の判断、習慣、対話、記録に落とし込む方法を学ぶ。",
+  "objectives": [
+    "哲学的内省を習慣化できる",
+    "判断、対話、記録に哲学を使える",
+    "自分の問いを育てる計画を作れる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-007/lesson-021/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-021.md",
+    "quiz": "/assets/quizzes/lesson-021.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

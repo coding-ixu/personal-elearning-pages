@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-016",
+  "course_id": "course-006",
+  "theme_id": "ai-philosophy",
+  "title": "科学的説明・反証可能性",
+  "summary": "科学的な説明とは何か、仮説はどのように検査されるのかを学ぶ。",
+  "objectives": [
+    "科学的説明の特徴を説明できる",
+    "反証可能性の意義と限界を理解できる",
+    "仮説検証の基本構造を整理できる"
+  ],
+  "estimated_minutes": 35,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-006/lesson-016/",
+    "audio": null,
+    "slides": null,
+    "transcript": "/assets/transcripts/lesson-016.md",
+    "quiz": "/assets/quizzes/lesson-016.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}
