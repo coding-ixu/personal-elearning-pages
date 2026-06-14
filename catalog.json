@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-14T15:50:47.413Z",
+  "generated_at": "2026-06-14T16:10:42.401Z",
   "themes": [
     {
       "theme_id": "ai-philosophy",
@@ -22,8 +22,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-001/lesson-001/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-001.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-001.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-001.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-001.json"
                   },
@@ -37,8 +37,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-001/lesson-002/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-002.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-002.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-002.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-002.json"
                   },
@@ -52,8 +52,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-001/lesson-003/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-003.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-003.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-003.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-003.json"
                   },
@@ -73,8 +73,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-002/lesson-004/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-004.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-004.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-004.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-004.json"
                   },
@@ -88,8 +88,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-002/lesson-005/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-005.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-005.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-005.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-005.json"
                   },
@@ -103,8 +103,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-002/lesson-006/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-006.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-006.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-006.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-006.json"
                   },
@@ -124,8 +124,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-003/lesson-007/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-007.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-007.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-007.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-007.json"
                   },
@@ -139,8 +139,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-003/lesson-008/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-008.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-008.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-008.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-008.json"
                   },
@@ -154,8 +154,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-003/lesson-009/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-009.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-009.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-009.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-009.json"
                   },
@@ -175,8 +175,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-004/lesson-010/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-010.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-010.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-010.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-010.json"
                   },
@@ -190,8 +190,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-004/lesson-011/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-011.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-011.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-011.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-011.json"
                   },
@@ -205,8 +205,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-004/lesson-012/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-012.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-012.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-012.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-012.json"
                   },
@@ -226,8 +226,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-005/lesson-013/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-013.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-013.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-013.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-013.json"
                   },
@@ -241,8 +241,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-005/lesson-014/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-014.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-014.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-014.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-014.json"
                   },
@@ -256,8 +256,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-005/lesson-015/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-015.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-015.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-015.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-015.json"
                   },
@@ -277,8 +277,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-006/lesson-016/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-016.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-016.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-016.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-016.json"
                   },
@@ -292,8 +292,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-006/lesson-017/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-017.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-017.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-017.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-017.json"
                   },
@@ -307,8 +307,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-006/lesson-018/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-018.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-018.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-018.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-018.json"
                   },
@@ -328,8 +328,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-007/lesson-019/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-019.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-019.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-019.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-019.json"
                   },
@@ -343,8 +343,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-007/lesson-020/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-020.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-020.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-020.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-020.json"
                   },
@@ -358,8 +358,8 @@
                   "estimated_minutes": 35,
                   "assets": {
                     "html": "/personal-elearning-pages/courses/ai-philosophy/course-007/lesson-021/",
-                    "audio": null,
-                    "slides": null,
+                    "audio": "/personal-elearning-pages/assets/audio/lesson-021.mp3",
+                    "slides": "/personal-elearning-pages/assets/slides/lesson-021.pdf",
                     "transcript": "/personal-elearning-pages/assets/transcripts/lesson-021.md",
                     "quiz": "/personal-elearning-pages/assets/quizzes/lesson-021.json"
                   },

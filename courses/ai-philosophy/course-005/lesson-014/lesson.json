@@ -14,8 +14,8 @@
   "version": 1,
   "assets": {
     "text": "/courses/ai-philosophy/course-005/lesson-014/",
-    "audio": null,
-    "slides": null,
+    "audio": "/assets/audio/lesson-014.mp3",
+    "slides": "/assets/slides/lesson-014.pdf",
     "transcript": "/assets/transcripts/lesson-014.md",
     "quiz": "/assets/quizzes/lesson-014.json"
   },

@@ -14,8 +14,8 @@
   "version": 1,
   "assets": {
     "text": "/courses/ai-philosophy/course-007/lesson-020/",
-    "audio": null,
-    "slides": null,
+    "audio": "/assets/audio/lesson-020.mp3",
+    "slides": "/assets/slides/lesson-020.pdf",
     "transcript": "/assets/transcripts/lesson-020.md",
     "quiz": "/assets/quizzes/lesson-020.json"
   },
