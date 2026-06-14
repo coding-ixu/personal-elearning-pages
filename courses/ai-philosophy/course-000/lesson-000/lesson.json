@@ -1,0 +1,24 @@
+{
+  "lesson_id": "lesson-000",
+  "course_id": "course-000",
+  "theme_id": "ai-philosophy",
+  "title": "最短ルートの結論",
+  "summary": "AI時代に哲学を学ぶなら、論理学・認識論・倫理学から始め、政治哲学、心の哲学、科学哲学、実存主義へ進むのが最短ルートであることを学ぶ。",
+  "objectives": [
+    "AI時代に哲学を学ぶ目的を説明できる",
+    "初心者が最初に学ぶべき哲学分野の順番を言える",
+    "各分野がAI利用のどの場面で役立つかを具体例で理解できる",
+    "次に学ぶレッスンを自分で選べる"
+  ],
+  "estimated_minutes": 18,
+  "status": "published",
+  "version": 1,
+  "assets": {
+    "text": "/courses/ai-philosophy/course-000/lesson-000/",
+    "audio": "/assets/audio/lesson-000.m4a",
+    "slides": "/assets/slides/lesson-000.pdf",
+    "transcript": "/assets/transcripts/lesson-000.md",
+    "quiz": "/assets/quizzes/lesson-000.json"
+  },
+  "published_at": "2026-06-15T00:00:00+09:00"
+}

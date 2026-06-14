@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-14T15:25:28.589Z",
+  "themes": [
+    {
+      "theme_id": "ai-philosophy",
+      "title": "AI時代の哲学",
+      "description": "AI時代に哲学を学ぶ最短ルートを把握し、AI利用時の判断力を鍛えるための学習テーマ",
+      "categories": [
+        {
+          "category_id": "orientation",
+          "title": "導入・学習ロードマップ",
+          "courses": [
+            {
+              "course_id": "course-000",
+              "title": "AI時代の哲学：最短ルート",
+              "lessons": [
+                {
+                  "lesson_id": "lesson-000",
+                  "title": "最短ルートの結論",
+                  "summary": "AI時代に哲学を学ぶなら、論理学・認識論・倫理学から始め、政治哲学、心の哲学、科学哲学、実存主義へ進むのが最短ルートであることを学ぶ。",
+                  "estimated_minutes": 18,
+                  "assets": {
+                    "html": "/courses/ai-philosophy/course-000/lesson-000/",
+                    "audio": "/assets/audio/lesson-000.m4a",
+                    "slides": "/assets/slides/lesson-000.pdf",
+                    "transcript": "/assets/transcripts/lesson-000.md",
+                    "quiz": "/assets/quizzes/lesson-000.json"
+                  },
+                  "version": 1,
+                  "published_at": "2026-06-15T00:00:00+09:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
