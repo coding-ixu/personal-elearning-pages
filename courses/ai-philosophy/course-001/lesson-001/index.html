@@ -10,7 +10,17 @@
     h1, h2, h3 { line-height: 1.25; }
     a { color: #0758b8; }
     audio { width: 100%; }
-    .slide-viewer object, .slide-viewer iframe { width: 100%; min-height: 72vh; border: 1px solid #d4d9de; border-radius: 8px; background: #fff; }
+    .slide-deck { margin-top: 28px; display: grid; gap: 12px; }
+    .slide-deck__header, .slide-deck__controls { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+    .slide-deck__header h2 { margin: 0; }
+    .slide-deck__counter { color: #5f6f69; font-variant-numeric: tabular-nums; }
+    .slide-deck__stage { position: relative; min-height: 320px; display: grid; place-items: center; overflow: hidden; border: 1px solid #d4d9de; border-radius: 8px; background: #101418; }
+    .slide-deck canvas { display: block; width: 100%; height: auto; max-height: 74vh; object-fit: contain; background: #fff; }
+    .slide-deck__status { position: absolute; inset: auto 16px 16px; margin: 0; color: #dce5e1; text-align: center; }
+    .slide-deck__controls { justify-content: center; }
+    .slide-deck__controls button, .slide-deck__controls a { min-width: 44px; min-height: 44px; display: inline-grid; place-items: center; border: 1px solid #c8d0cc; border-radius: 8px; background: #fff; color: #202124; text-decoration: none; font-size: 22px; line-height: 1; cursor: pointer; }
+    .slide-deck__controls a { font-size: 14px; padding: 0 12px; }
+    .slide-deck__controls button:disabled { opacity: 0.45; cursor: default; }
     code { background: #eef1f4; padding: 2px 5px; border-radius: 4px; }
   </style>
 </head>
@@ -60,12 +70,105 @@
       <li><a href="/assets/quizzes/lesson-001.json">Quiz JSON</a></li>
     </ul>
   </section>
-  <section class="slide-viewer">
-    <h2>Slides</h2>
-    <object data="/assets/slides/lesson-001.pdf" type="application/pdf">
-      <iframe src="/assets/slides/lesson-001.pdf" title="論証を読む技術 slides"></iframe>
-      <p><a href="/assets/slides/lesson-001.pdf">Slides PDFを開く</a></p>
-    </object>
+  <section class="slide-deck" data-slide-deck data-pdf-url="/assets/slides/lesson-001.pdf">
+    <div class="slide-deck__header">
+      <h2>Slides</h2>
+      <span class="slide-deck__counter" data-slide-counter>...</span>
+    </div>
+    <div class="slide-deck__stage" data-slide-stage>
+      <canvas data-slide-canvas aria-label="論証を読む技術 slides"></canvas>
+      <p class="slide-deck__status" data-slide-status>Loading slides...</p>
+    </div>
+    <div class="slide-deck__controls">
+      <button type="button" data-slide-prev aria-label="前のスライド">‹</button>
+      <button type="button" data-slide-next aria-label="次のスライド">›</button>
+      <a href="/assets/slides/lesson-001.pdf" target="_blank" rel="noreferrer">PDF</a>
+    </div>
   </section>
-</main></body>
+</main><script type="module">
+const PDFJS_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/build/pdf.mjs";
+const PDFJS_WORKER_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/build/pdf.worker.mjs";
+const decks = Array.from(document.querySelectorAll("[data-slide-deck]"));
+if (decks.length > 0) {
+let pdfjs = null;
+try {
+  pdfjs = await import(PDFJS_URL);
+  pdfjs.GlobalWorkerOptions.workerSrc = PDFJS_WORKER_URL;
+} catch {
+  for (const deck of decks) {
+    const status = deck.querySelector("[data-slide-status]");
+    if (status) status.textContent = "Slides PDFを読み込めませんでした。PDFリンクを開いてください。";
+  }
+}
+
+for (const deck of decks) {
+  if (!pdfjs) continue;
+  const url = deck.dataset.pdfUrl;
+  const canvas = deck.querySelector("[data-slide-canvas]");
+  const status = deck.querySelector("[data-slide-status]");
+  const counter = deck.querySelector("[data-slide-counter]");
+  const prev = deck.querySelector("[data-slide-prev]");
+  const next = deck.querySelector("[data-slide-next]");
+  const stage = deck.querySelector("[data-slide-stage]");
+  if (!url || !canvas || !stage) continue;
+  const context = canvas.getContext("2d");
+  let pdf = null;
+  let pageNumber = 1;
+  let rendering = false;
+  let pending = null;
+
+  const setStatus = (message) => {
+    if (status) status.textContent = message;
+  };
+  const renderPage = async (targetPage) => {
+    if (!pdf || !context) return;
+    if (rendering) {
+      pending = targetPage;
+      return;
+    }
+    rendering = true;
+    pageNumber = Math.min(Math.max(targetPage, 1), pdf.numPages);
+    setStatus("");
+    const page = await pdf.getPage(pageNumber);
+    const baseViewport = page.getViewport({ scale: 1 });
+    const stageWidth = Math.max(320, stage.clientWidth || 720);
+    const ratio = Math.min(2, window.devicePixelRatio || 1);
+    const scale = stageWidth / baseViewport.width;
+    const viewport = page.getViewport({ scale: scale * ratio });
+    canvas.width = Math.floor(viewport.width);
+    canvas.height = Math.floor(viewport.height);
+    canvas.style.width = Math.floor(viewport.width / ratio) + "px";
+    canvas.style.height = Math.floor(viewport.height / ratio) + "px";
+    await page.render({ canvasContext: context, viewport }).promise;
+    if (counter) counter.textContent = pageNumber + " / " + pdf.numPages;
+    if (prev) prev.disabled = pageNumber <= 1;
+    if (next) next.disabled = pageNumber >= pdf.numPages;
+    rendering = false;
+    if (pending !== null && pending !== pageNumber) {
+      const nextPage = pending;
+      pending = null;
+      await renderPage(nextPage);
+    } else {
+      pending = null;
+    }
+  };
+
+  try {
+    pdf = await pdfjs.getDocument(url).promise;
+    await renderPage(pageNumber);
+    prev?.addEventListener("click", () => renderPage(pageNumber - 1));
+    next?.addEventListener("click", () => renderPage(pageNumber + 1));
+    deck.addEventListener("keydown", (event) => {
+      if (event.key === "ArrowLeft") renderPage(pageNumber - 1);
+      if (event.key === "ArrowRight") renderPage(pageNumber + 1);
+    });
+    deck.tabIndex = 0;
+    const resize = () => renderPage(pageNumber);
+    window.addEventListener("resize", resize, { passive: true });
+  } catch {
+    setStatus("Slides PDFを読み込めませんでした。PDFリンクを開いてください。");
+  }
+}
+}
+</script></body>
 </html>
