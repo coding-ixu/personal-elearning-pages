@@ -112,7 +112,8 @@ for (const deck of decks) {
     window.addEventListener("resize", resize, { passive: true });
   } catch (error) {
     console.warn("Slide deck render failed", error);
-    setStatus("Slides PDFを読み込めませんでした。PDFリンクを開いてください。");
+    const detail = error instanceof Error && error.message ? " " + error.message : "";
+    setStatus("Slides PDFを読み込めませんでした。PDFリンクを開いてください。" + detail);
   }
 }
 }
