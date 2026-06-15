@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-14T16:10:42.401Z",
+  "generated_at": "2026-06-15T14:06:17.532Z",
   "themes": [
     {
       "theme_id": "ai-philosophy",
@@ -21,11 +21,11 @@
                   "summary": "文章や発言を、結論・理由・隠れた前提に分解し、どこを検討すべきか見抜く。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-001/lesson-001/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-001.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-001.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-001.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-001.json"
+                    "html": "/courses/ai-philosophy/course-001/lesson-001/",
+                    "audio": "/assets/audio/lesson-001.mp3",
+                    "slides": "/assets/slides/lesson-001.pdf",
+                    "transcript": "/assets/transcripts/lesson-001.md",
+                    "quiz": "/assets/quizzes/lesson-001.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -36,11 +36,11 @@
                   "summary": "形式として結論が導かれることと、前提が本当に正しいことを分け、典型的な誤謬を避ける。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-001/lesson-002/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-002.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-002.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-002.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-002.json"
+                    "html": "/courses/ai-philosophy/course-001/lesson-002/",
+                    "audio": "/assets/audio/lesson-002.mp3",
+                    "slides": "/assets/slides/lesson-002.pdf",
+                    "transcript": "/assets/transcripts/lesson-002.md",
+                    "quiz": "/assets/quizzes/lesson-002.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -51,11 +51,11 @@
                   "summary": "情報、専門家、数値、物語を評価し、判断を保留・更新するための習慣を作る。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-001/lesson-003/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-003.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-003.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-003.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-003.json"
+                    "html": "/courses/ai-philosophy/course-001/lesson-003/",
+                    "audio": "/assets/audio/lesson-003.mp3",
+                    "slides": "/assets/slides/lesson-003.pdf",
+                    "transcript": "/assets/transcripts/lesson-003.md",
+                    "quiz": "/assets/quizzes/lesson-003.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -72,11 +72,11 @@
                   "summary": "知識を、真理・信念・正当化の関係として捉え、単なる思い込みとの違いを学ぶ。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-002/lesson-004/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-004.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-004.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-004.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-004.json"
+                    "html": "/courses/ai-philosophy/course-002/lesson-004/",
+                    "audio": "/assets/audio/lesson-004.mp3",
+                    "slides": "/assets/slides/lesson-004.pdf",
+                    "transcript": "/assets/transcripts/lesson-004.md",
+                    "quiz": "/assets/quizzes/lesson-004.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -87,11 +87,11 @@
                   "summary": "どこまで疑えるのか、疑いを超えて信じるには何が必要かを、基礎づけと整合性から考える。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-002/lesson-005/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-005.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-005.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-005.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-005.json"
+                    "html": "/courses/ai-philosophy/course-002/lesson-005/",
+                    "audio": "/assets/audio/lesson-005.mp3",
+                    "slides": "/assets/slides/lesson-005.pdf",
+                    "transcript": "/assets/transcripts/lesson-005.md",
+                    "quiz": "/assets/quizzes/lesson-005.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -102,11 +102,11 @@
                   "summary": "他者の言葉、専門家、メディア、AIから得る知識を、依存と自律の両面から考える。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-002/lesson-006/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-006.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-006.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-006.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-006.json"
+                    "html": "/courses/ai-philosophy/course-002/lesson-006/",
+                    "audio": "/assets/audio/lesson-006.mp3",
+                    "slides": "/assets/slides/lesson-006.pdf",
+                    "transcript": "/assets/transcripts/lesson-006.md",
+                    "quiz": "/assets/quizzes/lesson-006.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -123,11 +123,11 @@
                   "summary": "結果、義務、人格という三つの観点から、倫理判断の代表的な枠組みを比較する。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-003/lesson-007/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-007.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-007.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-007.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-007.json"
+                    "html": "/courses/ai-philosophy/course-003/lesson-007/",
+                    "audio": "/assets/audio/lesson-007.mp3",
+                    "slides": "/assets/slides/lesson-007.pdf",
+                    "transcript": "/assets/transcripts/lesson-007.md",
+                    "quiz": "/assets/quizzes/lesson-007.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -138,11 +138,11 @@
                   "summary": "自由に選ぶこと、結果を引き受けること、依存関係の中で応答することを結びつけて考える。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-003/lesson-008/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-008.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-008.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-008.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-008.json"
+                    "html": "/courses/ai-philosophy/course-003/lesson-008/",
+                    "audio": "/assets/audio/lesson-008.mp3",
+                    "slides": "/assets/slides/lesson-008.pdf",
+                    "transcript": "/assets/transcripts/lesson-008.md",
+                    "quiz": "/assets/quizzes/lesson-008.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -153,11 +153,11 @@
                   "summary": "医療、環境、AI、ビジネスなどの具体的問題を、原則と状況の往復で考える。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-003/lesson-009/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-009.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-009.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-009.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-009.json"
+                    "html": "/courses/ai-philosophy/course-003/lesson-009/",
+                    "audio": "/assets/audio/lesson-009.mp3",
+                    "slides": "/assets/slides/lesson-009.pdf",
+                    "transcript": "/assets/transcripts/lesson-009.md",
+                    "quiz": "/assets/quizzes/lesson-009.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -174,11 +174,11 @@
                   "summary": "社会制度を評価する基本語彙として、正義、自由、平等の関係と衝突を学ぶ。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-004/lesson-010/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-010.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-010.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-010.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-010.json"
+                    "html": "/courses/ai-philosophy/course-004/lesson-010/",
+                    "audio": "/assets/audio/lesson-010.mp3",
+                    "slides": "/assets/slides/lesson-010.pdf",
+                    "transcript": "/assets/transcripts/lesson-010.md",
+                    "quiz": "/assets/quizzes/lesson-010.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -189,11 +189,11 @@
                   "summary": "民主主義を単なる多数決ではなく、理由を交換し、異議を制度化する仕組みとして理解する。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-004/lesson-011/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-011.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-011.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-011.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-011.json"
+                    "html": "/courses/ai-philosophy/course-004/lesson-011/",
+                    "audio": "/assets/audio/lesson-011.mp3",
+                    "slides": "/assets/slides/lesson-011.pdf",
+                    "transcript": "/assets/transcripts/lesson-011.md",
+                    "quiz": "/assets/quizzes/lesson-011.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -204,11 +204,11 @@
                   "summary": "社会を個人の選択の集まりとしてだけでなく、権力関係と承認の制度として読む。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-004/lesson-012/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-012.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-012.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-012.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-012.json"
+                    "html": "/courses/ai-philosophy/course-004/lesson-012/",
+                    "audio": "/assets/audio/lesson-012.mp3",
+                    "slides": "/assets/slides/lesson-012.pdf",
+                    "transcript": "/assets/transcripts/lesson-012.md",
+                    "quiz": "/assets/quizzes/lesson-012.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -225,11 +225,11 @@
                   "summary": "心は身体や脳とどのような関係にあるのか、意識の主観性はなぜ難問なのかを学ぶ。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-005/lesson-013/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-013.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-013.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-013.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-013.json"
+                    "html": "/courses/ai-philosophy/course-005/lesson-013/",
+                    "audio": "/assets/audio/lesson-013.mp3",
+                    "slides": "/assets/slides/lesson-013.pdf",
+                    "transcript": "/assets/transcripts/lesson-013.md",
+                    "quiz": "/assets/quizzes/lesson-013.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -240,11 +240,11 @@
                   "summary": "言葉が何を意味し、何を指し、発話によって何を行っているのかを考える。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-005/lesson-014/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-014.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-014.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-014.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-014.json"
+                    "html": "/courses/ai-philosophy/course-005/lesson-014/",
+                    "audio": "/assets/audio/lesson-014.mp3",
+                    "slides": "/assets/slides/lesson-014.pdf",
+                    "transcript": "/assets/transcripts/lesson-014.md",
+                    "quiz": "/assets/quizzes/lesson-014.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -255,11 +255,11 @@
                   "summary": "自己理解、他者理解、対話の失敗を、心と言語の接点から深掘りする。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-005/lesson-015/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-015.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-015.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-015.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-015.json"
+                    "html": "/courses/ai-philosophy/course-005/lesson-015/",
+                    "audio": "/assets/audio/lesson-015.mp3",
+                    "slides": "/assets/slides/lesson-015.pdf",
+                    "transcript": "/assets/transcripts/lesson-015.md",
+                    "quiz": "/assets/quizzes/lesson-015.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -276,11 +276,11 @@
                   "summary": "科学的な説明とは何か、仮説はどのように検査されるのかを学ぶ。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-006/lesson-016/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-016.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-016.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-016.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-016.json"
+                    "html": "/courses/ai-philosophy/course-006/lesson-016/",
+                    "audio": "/assets/audio/lesson-016.mp3",
+                    "slides": "/assets/slides/lesson-016.pdf",
+                    "transcript": "/assets/transcripts/lesson-016.md",
+                    "quiz": "/assets/quizzes/lesson-016.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -291,11 +291,11 @@
                   "summary": "科学は世界をそのまま写すのか、モデルや枠組みを通じて理解するのかを考える。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-006/lesson-017/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-017.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-017.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-017.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-017.json"
+                    "html": "/courses/ai-philosophy/course-006/lesson-017/",
+                    "audio": "/assets/audio/lesson-017.mp3",
+                    "slides": "/assets/slides/lesson-017.pdf",
+                    "transcript": "/assets/transcripts/lesson-017.md",
+                    "quiz": "/assets/quizzes/lesson-017.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -306,11 +306,11 @@
                   "summary": "技術を中立な道具としてだけでなく、行為、制度、価値観を形づくるものとして考える。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-006/lesson-018/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-018.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-018.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-018.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-018.json"
+                    "html": "/courses/ai-philosophy/course-006/lesson-018/",
+                    "audio": "/assets/audio/lesson-018.mp3",
+                    "slides": "/assets/slides/lesson-018.pdf",
+                    "transcript": "/assets/transcripts/lesson-018.md",
+                    "quiz": "/assets/quizzes/lesson-018.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -327,11 +327,11 @@
                   "summary": "人は決まった本質に従うだけでなく、選択によって自分を作るという実存主義の問いを学ぶ。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-007/lesson-019/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-019.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-019.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-019.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-019.json"
+                    "html": "/courses/ai-philosophy/course-007/lesson-019/",
+                    "audio": "/assets/audio/lesson-019.mp3",
+                    "slides": "/assets/slides/lesson-019.pdf",
+                    "transcript": "/assets/transcripts/lesson-019.md",
+                    "quiz": "/assets/quizzes/lesson-019.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -342,11 +342,11 @@
                   "summary": "有限な時間をどう生きるか、意味は発見されるのか作られるのかを考える。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-007/lesson-020/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-020.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-020.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-020.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-020.json"
+                    "html": "/courses/ai-philosophy/course-007/lesson-020/",
+                    "audio": "/assets/audio/lesson-020.mp3",
+                    "slides": "/assets/slides/lesson-020.pdf",
+                    "transcript": "/assets/transcripts/lesson-020.md",
+                    "quiz": "/assets/quizzes/lesson-020.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -357,11 +357,11 @@
                   "summary": "哲学を知識で終わらせず、日々の判断、習慣、対話、記録に落とし込む方法を学ぶ。",
                   "estimated_minutes": 35,
                   "assets": {
-                    "html": "/personal-elearning-pages/courses/ai-philosophy/course-007/lesson-021/",
-                    "audio": "/personal-elearning-pages/assets/audio/lesson-021.mp3",
-                    "slides": "/personal-elearning-pages/assets/slides/lesson-021.pdf",
-                    "transcript": "/personal-elearning-pages/assets/transcripts/lesson-021.md",
-                    "quiz": "/personal-elearning-pages/assets/quizzes/lesson-021.json"
+                    "html": "/courses/ai-philosophy/course-007/lesson-021/",
+                    "audio": "/assets/audio/lesson-021.mp3",
+                    "slides": "/assets/slides/lesson-021.pdf",
+                    "transcript": "/assets/transcripts/lesson-021.md",
+                    "quiz": "/assets/quizzes/lesson-021.json"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"

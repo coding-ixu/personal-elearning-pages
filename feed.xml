@@ -2,153 +2,153 @@
 <rss version="2.0">
   <channel>
     <title>Personal e-learning</title>
-    <link>https://coding-ixu.github.io/personal-elearning-pages</link>
+    <link>http://localhost:4321</link>
     <description>Generated personal learning lessons</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 16:10:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 14:06:17 GMT</lastBuildDate>
     <item>
       <title>論証を読む技術</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-001/lesson-001/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-001/lesson-001/</link>
       <guid>lesson-001-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 論理学・クリティカルシンキング: 文章や発言を、結論・理由・隠れた前提に分解し、どこを検討すべきか見抜く。</description>
     </item>
     <item>
       <title>妥当性・健全性・誤謬</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-001/lesson-002/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-001/lesson-002/</link>
       <guid>lesson-002-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 論理学・クリティカルシンキング: 形式として結論が導かれることと、前提が本当に正しいことを分け、典型的な誤謬を避ける。</description>
     </item>
     <item>
       <title>クリティカルシンキングの実践</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-001/lesson-003/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-001/lesson-003/</link>
       <guid>lesson-003-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 論理学・クリティカルシンキング: 情報、専門家、数値、物語を評価し、判断を保留・更新するための習慣を作る。</description>
     </item>
     <item>
       <title>知識とは何か</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-002/lesson-004/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-002/lesson-004/</link>
       <guid>lesson-004-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 認識論: 知識を、真理・信念・正当化の関係として捉え、単なる思い込みとの違いを学ぶ。</description>
     </item>
     <item>
       <title>懐疑論と正当化</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-002/lesson-005/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-002/lesson-005/</link>
       <guid>lesson-005-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 認識論: どこまで疑えるのか、疑いを超えて信じるには何が必要かを、基礎づけと整合性から考える。</description>
     </item>
     <item>
       <title>証言・専門知・情報環境</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-002/lesson-006/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-002/lesson-006/</link>
       <guid>lesson-006-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 認識論: 他者の言葉、専門家、メディア、AIから得る知識を、依存と自律の両面から考える。</description>
     </item>
     <item>
       <title>功利主義・義務論・徳倫理</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-003/lesson-007/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-003/lesson-007/</link>
       <guid>lesson-007-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 倫理学: 結果、義務、人格という三つの観点から、倫理判断の代表的な枠組みを比較する。</description>
     </item>
     <item>
       <title>自律・責任・ケア</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-003/lesson-008/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-003/lesson-008/</link>
       <guid>lesson-008-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 倫理学: 自由に選ぶこと、結果を引き受けること、依存関係の中で応答することを結びつけて考える。</description>
     </item>
     <item>
       <title>応用倫理の方法</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-003/lesson-009/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-003/lesson-009/</link>
       <guid>lesson-009-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 倫理学: 医療、環境、AI、ビジネスなどの具体的問題を、原則と状況の往復で考える。</description>
     </item>
     <item>
       <title>正義・自由・平等</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-004/lesson-010/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-004/lesson-010/</link>
       <guid>lesson-010-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 政治哲学・社会哲学: 社会制度を評価する基本語彙として、正義、自由、平等の関係と衝突を学ぶ。</description>
     </item>
     <item>
       <title>民主主義と公共圏</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-004/lesson-011/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-004/lesson-011/</link>
       <guid>lesson-011-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 政治哲学・社会哲学: 民主主義を単なる多数決ではなく、理由を交換し、異議を制度化する仕組みとして理解する。</description>
     </item>
     <item>
       <title>権力・承認・社会構造</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-004/lesson-012/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-004/lesson-012/</link>
       <guid>lesson-012-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 政治哲学・社会哲学: 社会を個人の選択の集まりとしてだけでなく、権力関係と承認の制度として読む。</description>
     </item>
     <item>
       <title>意識と心身問題</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-005/lesson-013/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-005/lesson-013/</link>
       <guid>lesson-013-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 心の哲学・言語哲学: 心は身体や脳とどのような関係にあるのか、意識の主観性はなぜ難問なのかを学ぶ。</description>
     </item>
     <item>
       <title>意味・参照・言語行為</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-005/lesson-014/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-005/lesson-014/</link>
       <guid>lesson-014-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 心の哲学・言語哲学: 言葉が何を意味し、何を指し、発話によって何を行っているのかを考える。</description>
     </item>
     <item>
       <title>自己・他者・コミュニケーション</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-005/lesson-015/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-005/lesson-015/</link>
       <guid>lesson-015-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 心の哲学・言語哲学: 自己理解、他者理解、対話の失敗を、心と言語の接点から深掘りする。</description>
     </item>
     <item>
       <title>科学的説明・反証可能性</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-006/lesson-016/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-006/lesson-016/</link>
       <guid>lesson-016-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 科学哲学・技術哲学: 科学的な説明とは何か、仮説はどのように検査されるのかを学ぶ。</description>
     </item>
     <item>
       <title>パラダイム・実在論・モデル</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-006/lesson-017/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-006/lesson-017/</link>
       <guid>lesson-017-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 科学哲学・技術哲学: 科学は世界をそのまま写すのか、モデルや枠組みを通じて理解するのかを考える。</description>
     </item>
     <item>
       <title>技術哲学・設計責任</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-006/lesson-018/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-006/lesson-018/</link>
       <guid>lesson-018-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 科学哲学・技術哲学: 技術を中立な道具としてだけでなく、行為、制度、価値観を形づくるものとして考える。</description>
     </item>
     <item>
       <title>実存・自由・不安</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-007/lesson-019/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-007/lesson-019/</link>
       <guid>lesson-019-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 実存主義・人生哲学: 人は決まった本質に従うだけでなく、選択によって自分を作るという実存主義の問いを学ぶ。</description>
     </item>
     <item>
       <title>死・時間・意味</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-007/lesson-020/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-007/lesson-020/</link>
       <guid>lesson-020-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 実存主義・人生哲学: 有限な時間をどう生きるか、意味は発見されるのか作られるのかを考える。</description>
     </item>
     <item>
       <title>人生哲学を実践にする</title>
-      <link>https://coding-ixu.github.io/personal-elearning-pages/courses/ai-philosophy/course-007/lesson-021/</link>
+      <link>http://localhost:4321/courses/ai-philosophy/course-007/lesson-021/</link>
       <guid>lesson-021-v1</guid>
       <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
       <description>哲学一般 / 実存主義・人生哲学: 哲学を知識で終わらせず、日々の判断、習慣、対話、記録に落とし込む方法を学ぶ。</description>

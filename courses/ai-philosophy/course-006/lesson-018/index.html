@@ -10,11 +10,12 @@
     h1, h2, h3 { line-height: 1.25; }
     a { color: #0758b8; }
     audio { width: 100%; }
+    .slide-viewer object, .slide-viewer iframe { width: 100%; min-height: 72vh; border: 1px solid #d4d9de; border-radius: 8px; background: #fff; }
     code { background: #eef1f4; padding: 2px 5px; border-radius: 4px; }
   </style>
 </head>
 <body><main>
-  <nav><a href="/personal-elearning-pages/">Home</a></nav>
+  <nav><a href="/">Home</a></nav>
   <article><h1>技術哲学・設計責任</h1>
 <p>技術を中立な道具としてだけでなく、行為、制度、価値観を形づくるものとして考える。</p>
 <h2>このレッスンの問い</h2>
@@ -53,11 +54,18 @@
   <section>
     <h2>Assets</h2>
     <ul>
-      <li><audio controls src="/personal-elearning-pages/assets/audio/lesson-018.mp3"></audio></li>
-      <li><a href="/personal-elearning-pages/assets/slides/lesson-018.pdf">Slides PDF</a></li>
-      <li><a href="/personal-elearning-pages/assets/transcripts/lesson-018.md">Transcript</a></li>
-      <li><a href="/personal-elearning-pages/assets/quizzes/lesson-018.json">Quiz JSON</a></li>
+      <li><audio controls src="/assets/audio/lesson-018.mp3"></audio></li>
+      <li><a href="/assets/slides/lesson-018.pdf">Slides PDF</a></li>
+      <li><a href="/assets/transcripts/lesson-018.md">Transcript</a></li>
+      <li><a href="/assets/quizzes/lesson-018.json">Quiz JSON</a></li>
     </ul>
+  </section>
+  <section class="slide-viewer">
+    <h2>Slides</h2>
+    <object data="/assets/slides/lesson-018.pdf" type="application/pdf">
+      <iframe src="/assets/slides/lesson-018.pdf" title="技術哲学・設計責任 slides"></iframe>
+      <p><a href="/assets/slides/lesson-018.pdf">Slides PDFを開く</a></p>
+    </object>
   </section>
 </main></body>
 </html>

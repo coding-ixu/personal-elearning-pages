@@ -10,11 +10,12 @@
     h1, h2, h3 { line-height: 1.25; }
     a { color: #0758b8; }
     audio { width: 100%; }
+    .slide-viewer object, .slide-viewer iframe { width: 100%; min-height: 72vh; border: 1px solid #d4d9de; border-radius: 8px; background: #fff; }
     code { background: #eef1f4; padding: 2px 5px; border-radius: 4px; }
   </style>
 </head>
 <body><main>
-  <nav><a href="/personal-elearning-pages/">Home</a></nav>
+  <nav><a href="/">Home</a></nav>
   <article><h1>妥当性・健全性・誤謬</h1>
 <p>形式として結論が導かれることと、前提が本当に正しいことを分け、典型的な誤謬を避ける。</p>
 <h2>このレッスンの問い</h2>
@@ -53,11 +54,18 @@
   <section>
     <h2>Assets</h2>
     <ul>
-      <li><audio controls src="/personal-elearning-pages/assets/audio/lesson-002.mp3"></audio></li>
-      <li><a href="/personal-elearning-pages/assets/slides/lesson-002.pdf">Slides PDF</a></li>
-      <li><a href="/personal-elearning-pages/assets/transcripts/lesson-002.md">Transcript</a></li>
-      <li><a href="/personal-elearning-pages/assets/quizzes/lesson-002.json">Quiz JSON</a></li>
+      <li><audio controls src="/assets/audio/lesson-002.mp3"></audio></li>
+      <li><a href="/assets/slides/lesson-002.pdf">Slides PDF</a></li>
+      <li><a href="/assets/transcripts/lesson-002.md">Transcript</a></li>
+      <li><a href="/assets/quizzes/lesson-002.json">Quiz JSON</a></li>
     </ul>
+  </section>
+  <section class="slide-viewer">
+    <h2>Slides</h2>
+    <object data="/assets/slides/lesson-002.pdf" type="application/pdf">
+      <iframe src="/assets/slides/lesson-002.pdf" title="妥当性・健全性・誤謬 slides"></iframe>
+      <p><a href="/assets/slides/lesson-002.pdf">Slides PDFを開く</a></p>
+    </object>
   </section>
 </main></body>
 </html>
