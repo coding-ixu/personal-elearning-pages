@@ -86,8 +86,8 @@
     </div>
   </section>
 </main><script type="module">
-const PDFJS_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/build/pdf.mjs";
-const PDFJS_WORKER_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/build/pdf.worker.mjs";
+const PDFJS_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/legacy/build/pdf.mjs";
+const PDFJS_WORKER_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/legacy/build/pdf.worker.mjs";
 const decks = Array.from(document.querySelectorAll("[data-slide-deck]"));
 if (decks.length > 0) {
 let pdfjs = null;
@@ -95,6 +95,7 @@ try {
   pdfjs = await import(PDFJS_URL);
   pdfjs.GlobalWorkerOptions.workerSrc = PDFJS_WORKER_URL;
 } catch {
+  console.warn("PDF.js could not be loaded");
   for (const deck of decks) {
     const status = deck.querySelector("[data-slide-status]");
     if (status) status.textContent = "Slides PDFを読み込めませんでした。PDFリンクを開いてください。";
@@ -165,7 +166,8 @@ for (const deck of decks) {
     deck.tabIndex = 0;
     const resize = () => renderPage(pageNumber);
     window.addEventListener("resize", resize, { passive: true });
-  } catch {
+  } catch (error) {
+    console.warn("Slide deck render failed", error);
     setStatus("Slides PDFを読み込めませんでした。PDFリンクを開いてください。");
   }
 }

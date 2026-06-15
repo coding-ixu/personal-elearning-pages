@@ -30,8 +30,8 @@
   <p><a href="./catalog.json">catalog.json</a> / <a href="./feed.xml">RSS</a> / <a href="./feed/audio.xml">Podcast RSS</a></p>
   <section><h2>哲学一般</h2><h3>哲学一般</h3><h4>論理学・クリティカルシンキング</h4><ul><li><a href="/courses/ai-philosophy/course-001/lesson-001/">論証を読む技術</a></li><li><a href="/courses/ai-philosophy/course-001/lesson-002/">妥当性・健全性・誤謬</a></li><li><a href="/courses/ai-philosophy/course-001/lesson-003/">クリティカルシンキングの実践</a></li></ul><h4>認識論</h4><ul><li><a href="/courses/ai-philosophy/course-002/lesson-004/">知識とは何か</a></li><li><a href="/courses/ai-philosophy/course-002/lesson-005/">懐疑論と正当化</a></li><li><a href="/courses/ai-philosophy/course-002/lesson-006/">証言・専門知・情報環境</a></li></ul><h4>倫理学</h4><ul><li><a href="/courses/ai-philosophy/course-003/lesson-007/">功利主義・義務論・徳倫理</a></li><li><a href="/courses/ai-philosophy/course-003/lesson-008/">自律・責任・ケア</a></li><li><a href="/courses/ai-philosophy/course-003/lesson-009/">応用倫理の方法</a></li></ul><h4>政治哲学・社会哲学</h4><ul><li><a href="/courses/ai-philosophy/course-004/lesson-010/">正義・自由・平等</a></li><li><a href="/courses/ai-philosophy/course-004/lesson-011/">民主主義と公共圏</a></li><li><a href="/courses/ai-philosophy/course-004/lesson-012/">権力・承認・社会構造</a></li></ul><h4>心の哲学・言語哲学</h4><ul><li><a href="/courses/ai-philosophy/course-005/lesson-013/">意識と心身問題</a></li><li><a href="/courses/ai-philosophy/course-005/lesson-014/">意味・参照・言語行為</a></li><li><a href="/courses/ai-philosophy/course-005/lesson-015/">自己・他者・コミュニケーション</a></li></ul><h4>科学哲学・技術哲学</h4><ul><li><a href="/courses/ai-philosophy/course-006/lesson-016/">科学的説明・反証可能性</a></li><li><a href="/courses/ai-philosophy/course-006/lesson-017/">パラダイム・実在論・モデル</a></li><li><a href="/courses/ai-philosophy/course-006/lesson-018/">技術哲学・設計責任</a></li></ul><h4>実存主義・人生哲学</h4><ul><li><a href="/courses/ai-philosophy/course-007/lesson-019/">実存・自由・不安</a></li><li><a href="/courses/ai-philosophy/course-007/lesson-020/">死・時間・意味</a></li><li><a href="/courses/ai-philosophy/course-007/lesson-021/">人生哲学を実践にする</a></li></ul></section>
 </main><script type="module">
-const PDFJS_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/build/pdf.mjs";
-const PDFJS_WORKER_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/build/pdf.worker.mjs";
+const PDFJS_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/legacy/build/pdf.mjs";
+const PDFJS_WORKER_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/legacy/build/pdf.worker.mjs";
 const decks = Array.from(document.querySelectorAll("[data-slide-deck]"));
 if (decks.length > 0) {
 let pdfjs = null;
@@ -39,6 +39,7 @@ try {
   pdfjs = await import(PDFJS_URL);
   pdfjs.GlobalWorkerOptions.workerSrc = PDFJS_WORKER_URL;
 } catch {
+  console.warn("PDF.js could not be loaded");
   for (const deck of decks) {
     const status = deck.querySelector("[data-slide-status]");
     if (status) status.textContent = "Slides PDFを読み込めませんでした。PDFリンクを開いてください。";
@@ -109,7 +110,8 @@ for (const deck of decks) {
     deck.tabIndex = 0;
     const resize = () => renderPage(pageNumber);
     window.addEventListener("resize", resize, { passive: true });
-  } catch {
+  } catch (error) {
+    console.warn("Slide deck render failed", error);
     setStatus("Slides PDFを読み込めませんでした。PDFリンクを開いてください。");
   }
 }
