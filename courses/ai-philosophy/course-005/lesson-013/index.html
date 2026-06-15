@@ -155,7 +155,7 @@ for (const deck of decks) {
   };
 
   try {
-    pdf = await pdfjs.getDocument(url).promise;
+    pdf = await pdfjs.getDocument({ url }).promise;
     await renderPage(pageNumber);
     prev?.addEventListener("click", () => renderPage(pageNumber - 1));
     next?.addEventListener("click", () => renderPage(pageNumber + 1));
