@@ -16,8 +16,7 @@
     "text": "/courses/ai-philosophy/course-001/lesson-001/",
     "audio": "/assets/audio/lesson-001.mp3",
     "slides": "/assets/slides/lesson-001.pdf",
-    "transcript": "/assets/transcripts/lesson-001.md",
-    "quiz": "/assets/quizzes/lesson-001.json"
+    "transcript": "/assets/transcripts/lesson-001.md"
   },
   "published_at": "2026-06-15T00:00:00+09:00"
 }

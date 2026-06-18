@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-17T13:46:43.487Z",
+  "generated_at": "2026-06-18T13:43:24.935Z",
   "themes": [
     {
       "theme_id": "ai-philosophy",
@@ -24,8 +24,7 @@
                     "html": "/courses/ai-philosophy/course-001/lesson-001/",
                     "audio": "/assets/audio/lesson-001.mp3",
                     "slides": "/assets/slides/lesson-001.pdf",
-                    "transcript": "/assets/transcripts/lesson-001.md",
-                    "quiz": "/assets/quizzes/lesson-001.json"
+                    "transcript": "/assets/transcripts/lesson-001.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -39,8 +38,7 @@
                     "html": "/courses/ai-philosophy/course-001/lesson-002/",
                     "audio": "/assets/audio/lesson-002.mp3",
                     "slides": "/assets/slides/lesson-002.pdf",
-                    "transcript": "/assets/transcripts/lesson-002.md",
-                    "quiz": "/assets/quizzes/lesson-002.json"
+                    "transcript": "/assets/transcripts/lesson-002.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -54,8 +52,7 @@
                     "html": "/courses/ai-philosophy/course-001/lesson-003/",
                     "audio": "/assets/audio/lesson-003.mp3",
                     "slides": "/assets/slides/lesson-003.pdf",
-                    "transcript": "/assets/transcripts/lesson-003.md",
-                    "quiz": "/assets/quizzes/lesson-003.json"
+                    "transcript": "/assets/transcripts/lesson-003.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -75,8 +72,7 @@
                     "html": "/courses/ai-philosophy/course-002/lesson-004/",
                     "audio": "/assets/audio/lesson-004.mp3",
                     "slides": "/assets/slides/lesson-004.pdf",
-                    "transcript": "/assets/transcripts/lesson-004.md",
-                    "quiz": "/assets/quizzes/lesson-004.json"
+                    "transcript": "/assets/transcripts/lesson-004.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -90,8 +86,7 @@
                     "html": "/courses/ai-philosophy/course-002/lesson-005/",
                     "audio": "/assets/audio/lesson-005.mp3",
                     "slides": "/assets/slides/lesson-005.pdf",
-                    "transcript": "/assets/transcripts/lesson-005.md",
-                    "quiz": "/assets/quizzes/lesson-005.json"
+                    "transcript": "/assets/transcripts/lesson-005.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -105,8 +100,7 @@
                     "html": "/courses/ai-philosophy/course-002/lesson-006/",
                     "audio": "/assets/audio/lesson-006.mp3",
                     "slides": "/assets/slides/lesson-006.pdf",
-                    "transcript": "/assets/transcripts/lesson-006.md",
-                    "quiz": "/assets/quizzes/lesson-006.json"
+                    "transcript": "/assets/transcripts/lesson-006.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -126,8 +120,7 @@
                     "html": "/courses/ai-philosophy/course-003/lesson-007/",
                     "audio": "/assets/audio/lesson-007.mp3",
                     "slides": "/assets/slides/lesson-007.pdf",
-                    "transcript": "/assets/transcripts/lesson-007.md",
-                    "quiz": "/assets/quizzes/lesson-007.json"
+                    "transcript": "/assets/transcripts/lesson-007.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -141,8 +134,7 @@
                     "html": "/courses/ai-philosophy/course-003/lesson-008/",
                     "audio": "/assets/audio/lesson-008.mp3",
                     "slides": "/assets/slides/lesson-008.pdf",
-                    "transcript": "/assets/transcripts/lesson-008.md",
-                    "quiz": "/assets/quizzes/lesson-008.json"
+                    "transcript": "/assets/transcripts/lesson-008.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -156,8 +148,7 @@
                     "html": "/courses/ai-philosophy/course-003/lesson-009/",
                     "audio": "/assets/audio/lesson-009.mp3",
                     "slides": "/assets/slides/lesson-009.pdf",
-                    "transcript": "/assets/transcripts/lesson-009.md",
-                    "quiz": "/assets/quizzes/lesson-009.json"
+                    "transcript": "/assets/transcripts/lesson-009.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -177,8 +168,7 @@
                     "html": "/courses/ai-philosophy/course-004/lesson-010/",
                     "audio": "/assets/audio/lesson-010.mp3",
                     "slides": "/assets/slides/lesson-010.pdf",
-                    "transcript": "/assets/transcripts/lesson-010.md",
-                    "quiz": "/assets/quizzes/lesson-010.json"
+                    "transcript": "/assets/transcripts/lesson-010.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -192,8 +182,7 @@
                     "html": "/courses/ai-philosophy/course-004/lesson-011/",
                     "audio": "/assets/audio/lesson-011.mp3",
                     "slides": "/assets/slides/lesson-011.pdf",
-                    "transcript": "/assets/transcripts/lesson-011.md",
-                    "quiz": "/assets/quizzes/lesson-011.json"
+                    "transcript": "/assets/transcripts/lesson-011.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -207,8 +196,7 @@
                     "html": "/courses/ai-philosophy/course-004/lesson-012/",
                     "audio": "/assets/audio/lesson-012.mp3",
                     "slides": "/assets/slides/lesson-012.pdf",
-                    "transcript": "/assets/transcripts/lesson-012.md",
-                    "quiz": "/assets/quizzes/lesson-012.json"
+                    "transcript": "/assets/transcripts/lesson-012.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -228,8 +216,7 @@
                     "html": "/courses/ai-philosophy/course-005/lesson-013/",
                     "audio": "/assets/audio/lesson-013.mp3",
                     "slides": "/assets/slides/lesson-013.pdf",
-                    "transcript": "/assets/transcripts/lesson-013.md",
-                    "quiz": "/assets/quizzes/lesson-013.json"
+                    "transcript": "/assets/transcripts/lesson-013.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -243,8 +230,7 @@
                     "html": "/courses/ai-philosophy/course-005/lesson-014/",
                     "audio": "/assets/audio/lesson-014.mp3",
                     "slides": "/assets/slides/lesson-014.pdf",
-                    "transcript": "/assets/transcripts/lesson-014.md",
-                    "quiz": "/assets/quizzes/lesson-014.json"
+                    "transcript": "/assets/transcripts/lesson-014.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -258,8 +244,7 @@
                     "html": "/courses/ai-philosophy/course-005/lesson-015/",
                     "audio": "/assets/audio/lesson-015.mp3",
                     "slides": "/assets/slides/lesson-015.pdf",
-                    "transcript": "/assets/transcripts/lesson-015.md",
-                    "quiz": "/assets/quizzes/lesson-015.json"
+                    "transcript": "/assets/transcripts/lesson-015.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -279,8 +264,7 @@
                     "html": "/courses/ai-philosophy/course-006/lesson-016/",
                     "audio": "/assets/audio/lesson-016.mp3",
                     "slides": "/assets/slides/lesson-016.pdf",
-                    "transcript": "/assets/transcripts/lesson-016.md",
-                    "quiz": "/assets/quizzes/lesson-016.json"
+                    "transcript": "/assets/transcripts/lesson-016.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -294,8 +278,7 @@
                     "html": "/courses/ai-philosophy/course-006/lesson-017/",
                     "audio": "/assets/audio/lesson-017.mp3",
                     "slides": "/assets/slides/lesson-017.pdf",
-                    "transcript": "/assets/transcripts/lesson-017.md",
-                    "quiz": "/assets/quizzes/lesson-017.json"
+                    "transcript": "/assets/transcripts/lesson-017.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -309,8 +292,7 @@
                     "html": "/courses/ai-philosophy/course-006/lesson-018/",
                     "audio": "/assets/audio/lesson-018.mp3",
                     "slides": "/assets/slides/lesson-018.pdf",
-                    "transcript": "/assets/transcripts/lesson-018.md",
-                    "quiz": "/assets/quizzes/lesson-018.json"
+                    "transcript": "/assets/transcripts/lesson-018.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -330,8 +312,7 @@
                     "html": "/courses/ai-philosophy/course-007/lesson-019/",
                     "audio": "/assets/audio/lesson-019.mp3",
                     "slides": "/assets/slides/lesson-019.pdf",
-                    "transcript": "/assets/transcripts/lesson-019.md",
-                    "quiz": "/assets/quizzes/lesson-019.json"
+                    "transcript": "/assets/transcripts/lesson-019.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -345,8 +326,7 @@
                     "html": "/courses/ai-philosophy/course-007/lesson-020/",
                     "audio": "/assets/audio/lesson-020.mp3",
                     "slides": "/assets/slides/lesson-020.pdf",
-                    "transcript": "/assets/transcripts/lesson-020.md",
-                    "quiz": "/assets/quizzes/lesson-020.json"
+                    "transcript": "/assets/transcripts/lesson-020.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
@@ -360,8 +340,7 @@
                     "html": "/courses/ai-philosophy/course-007/lesson-021/",
                     "audio": "/assets/audio/lesson-021.mp3",
                     "slides": "/assets/slides/lesson-021.pdf",
-                    "transcript": "/assets/transcripts/lesson-021.md",
-                    "quiz": "/assets/quizzes/lesson-021.json"
+                    "transcript": "/assets/transcripts/lesson-021.md"
                   },
                   "version": 1,
                   "published_at": "2026-06-15T00:00:00+09:00"
